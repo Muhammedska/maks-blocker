@@ -9,6 +9,7 @@ main py dosyasini Python da çalıştırın veya py auto exe ile exe yapıp dll 
 <td>Mali<td/>
 <td><a href=`https://github.com/mali2005`>github<a/><td/>
 <tr/>
+<br/>
 <tr>
 <td>muko<td/>
 <td>this acc<td/>
