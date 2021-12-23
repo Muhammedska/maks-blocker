@@ -9,8 +9,8 @@ Not 1 : beta dosyasını exe yapınca ismi beta olarak kalsın fatih kilit siste
 <li>
 Not 2 : akıllı tahtayı açmanın birden fazla yolu mevcuttur beta bunlardan sadece bir tanesidir. Herhangi bir olumsuz durumdan biz sorumlu değiliz programın tüm hakları saklıdır izinsiz olarak pazarlanması suç teşkil etmektedir.
 <li/>
-<ul>
-
+<ul/>
+<br>
 <div>
 <H1 align="center">AUTHOR<H1/>
 <table>
