@@ -2,8 +2,14 @@
 akıllı kilit sistemi bloklayan program
 main py dosyasini Python da çalıştırın veya py auto exe ile exe yapıp dll dosyalarını ekleyin ensonunda programi başlat menüsüne ekleyiniz
 <hr>
+<ul>
+<li>
 Not 1 : beta dosyasını exe yapınca ismi beta olarak kalsın fatih kilit sistemini bloke edince tekrardan kilitlemek isterseniz AntiPops ı çalıştırmanız yeterli olacaktır.
+<li/>
+<li>
 Not 2 : akıllı tahtayı açmanın birden fazla yolu mevcuttur beta bunlardan sadece bir tanesidir. Herhangi bir olumsuz durumdan biz sorumlu değiliz programın tüm hakları saklıdır izinsiz olarak pazarlanması suç teşkil etmektedir.
+<li/>
+<ul>
 
 <div>
 <H1 align="center">AUTHOR<H1/>
